@@ -1,0 +1,6 @@
+mediapipe>=0.10.14
+opencv-python>=4.8
+numpy>=1.24
+moderngl>=5.10
+glfw>=2.6
+Pillow>=10.1
